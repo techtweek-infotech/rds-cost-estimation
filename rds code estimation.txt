@@ -1,0 +1,28 @@
+-----------------
+Cost estimation:
+-----------------
+
+1. Instance type - db.t4g.micro (For Graviton)
+vCPU: 2
+Memory: 1 GiB
+Storage pricing (Monthly)                     : 6.90 USD
+Amazon RDS PostgreSQL instances cost (Monthly): 23.36 USD
+Total Monthly cost                            : 30.26 USD
+
+------------------------------------------------------------
+
+2. Instance type - db.t4g.small (For Graviton)
+vCPU: 2
+Memory: 2 GiB
+Storage pricing (Monthly)                     : 6.90 USD
+Amazon RDS PostgreSQL instances cost (Monthly): 47.45 USD
+Total Monthly cost                            : 54.35 USD
+
+-----------------------------------------------------------
+
+3. Instance type - db.t3.small (Intel - currently in use)
+vCPU: 2
+Memory: 2 GiB
+Storage pricing (Monthly)                     : 6.90 USD
+Amazon RDS PostgreSQL instances cost (Monthly): 52.56 USD
+Total Monthly cost                            : 59.46 USD
